@@ -1,7 +1,6 @@
 # Anayat Hossain 
-## Founder & CEO of Digidev Solutions
+# Founder & CEO of Digidev Solutions
 <br>
-
 <h3 align="left">Contact on Social Media</h3>
 <p align="left">
   <!-- Facebook -->
