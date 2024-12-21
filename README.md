@@ -2,6 +2,8 @@
 **Founder & CEO of Digidev Solutions**  
 **Head of Multimedia Editor at Younus Group of Industries**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anayathossain&label=Profile%20views&color=0e75b6&style=flat" alt="anayathossain" /> </p>
+
 <h3 align="left">Contact on Social Media</h3>
 <p align="left">
   <!-- Facebook -->
