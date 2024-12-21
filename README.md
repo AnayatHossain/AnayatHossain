@@ -1,6 +1,7 @@
-# Anayat Hossain 
-# Founder & CEO of Digidev Solutions
-<br>
+# Anayat Hossain  
+**Founder & CEO of Digidev Solutions**  
+**Head of Multimedia Editor at Younus Group of Industries**
+
 <h3 align="left">Contact on Social Media</h3>
 <p align="left">
   <!-- Facebook -->
