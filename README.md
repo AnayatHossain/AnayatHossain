@@ -37,7 +37,7 @@
 </p>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anayathossain&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnayatHossain&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
