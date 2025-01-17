@@ -37,7 +37,7 @@
 </p>
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnayatHossain&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnayatHossain" alt="GitHub Streak" /></a>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
