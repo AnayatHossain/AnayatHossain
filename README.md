@@ -1,6 +1,7 @@
 # Anayat Hossain  
 **Founder & CEO of Digidev Solutions**  
-**Head of Multimedia Editor at Younus Group of Industries**
+**Senior Executive, Multimedia Editor at Younus Group of Industries**
+**Software Engineer at SM Technology**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anayathossain&label=Profile%20views&color=0e75b6&style=flat" alt="anayathossain" /> </p>
 
@@ -38,6 +39,13 @@
 <br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnayatHossain" alt="GitHub Streak" /></a>
+
+# Contribution:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake.svg" />
+</picture>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
