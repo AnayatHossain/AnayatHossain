@@ -128,7 +128,7 @@
 </p>
 
 ### About
-I am Anayat Hossain, the Founder & CEO of Digidev Solutions and the Head Multimedia Editor at Younus Group of Industries. I have over five years of experience in multimedia editing and mobile application development.
+I am Anayat Hossain, the Founder & CEO of Digidev Solutions, Senior Executive, Multimedia Editor at Younus Group of Industries and Software Engineer at SM Technology. I have over five years of experience in multimedia editing and mobile application development.
 
 <table>
 <tbody>
