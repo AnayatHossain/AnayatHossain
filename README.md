@@ -1,6 +1,7 @@
 # Anayat Hossain  
 **Founder & CEO of Digidev Solutions**  
 **Senior Executive, Multimedia Editor at Younus Group of Industries**
+
 **Software Engineer at SM Technology**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anayathossain&label=Profile%20views&color=0e75b6&style=flat" alt="anayathossain" /> </p>
