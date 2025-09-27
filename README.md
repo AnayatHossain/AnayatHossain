@@ -42,10 +42,16 @@
 
 # Contribution:
 <picture>
+  <!-- Dark Mode: Use the dark theme version of the GitHub Snake -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake-dark.svg" />
+
+  <!-- Light Mode: Use the light theme version of the GitHub Snake -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake.svg" />
+  
+  <!-- Default image: In case the user's browser does not support the <picture> element -->
   <img alt="github-snake" src="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake.svg" />
 </picture>
+
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
