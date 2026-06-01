@@ -1,150 +1,109 @@
-# Anayat Hossain  
-**Founder & CEO of Digidev Solutions** <br>
-**Senior Executive, Multimedia Editor at Younus Group of Industries** <br>
-**Software Engineer at SM Technology**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ANAYAT HOSSAIN — GitHub Profile README                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anayathossain&label=Profile%20views&color=0e75b6&style=flat" alt="anayathossain" /> </p>
+# Anayat Hossain
 
-<h3 align="left">Contact on Social Media</h3>
+### Entrepreneur · Software Engineer · Multimedia Creative
+
+<p>
+  <a href="https://www.linkedin.com/in/anayathossainofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/AnayatHossain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/AnayatOfficial"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
+  <a href="https://www.youtube.com/@anayathossainofficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.facebook.com/iam.anayathossain"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/anayathossainofficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=anayathossain&label=Profile+Views&color=0D1117&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+## About Me
+
+I am a **Software Engineer** and **Group of Companies Owner** with over five years of hands-on experience spanning mobile application development, multimedia production, and enterprise leadership. I architect and ship cross-platform mobile apps (Flutter/Dart) powered by Firebase, while simultaneously leading multiple ventures across technology and media.
+
+## Leadership & Ventures
+
+| Role | Organisation |
+|------|-------------|
+| 🏢 Founder & CEO | **Oriqon Group** |
+| 🏢 Founder & CEO | **Digidev Solutions** |
+| 🎬 Senior Executive, Multimedia Editor | **Younus Group of Industries** |
+| 💻 Software Engineer | **SM Technology** |
+
+## Core Expertise
+
 <p align="left">
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/iam.anayathossain" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/anayathossainofficial/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@anayathossainofficial" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" alt="YouTube" width="40" height="40"/>
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/anayathossainofficial/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/AnayatHossain" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  </a>
-  <!-- Twitter/X -->
-  <a href="https://x.com/AnayatOfficial" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter/X" width="40" height="40"/>
-  </a>
-  <!-- Tumblr -->
-  <a href="https://www.tumblr.com/anayathossainofficial" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/tumblr.svg" alt="Tumblr" width="40" height="40"/>
+
+**Mobile Development**
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+**Backend & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+**Creative & Design**
+<br/>
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=Adobe+Premiere+Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=Adobe+After+Effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe+Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe+Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=Adobe+XD&logoColor=white"/>
+
+**Tools & IDEs**
+<br/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+
+</p>
+
+## GitHub Activity
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AnayatHossain&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
   </a>
 </p>
-<br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnayatHossain" alt="GitHub Streak" /></a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anayathossain&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayathossain&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
+</p>
 
-# Contribution:
+## Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AnayatHossain/AnayatHossain/output/github-snake.svg"/>
 </picture>
 
+---
 
-
-<h3 align="left">Programming Languages</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Video Editing</h3>
-<p align="left">
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="Adobe After Effects" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Mobile Development</h3>
-<p align="left">
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-</p>
-
-
-<h3 align="left">Database</h3>
-<p align="left">
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">IOT Development</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Designing</h3>
-<p align="left">
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="40" height="40"/>
-  </a
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Tools</h3>
-<p align="left">
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <img src="https://skillicons.dev/icons?i=pycharm,octave,windows" />
-  
-</p>
-
-<h3 align="left">Favorite IDE</h3>
-<p align="left">
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio" width="40" height="40"/></a>
-  <a href="https://netbeans.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
-</p>
-
-### About
-I am Anayat Hossain, the Founder & CEO of Digidev Solutions, Senior Executive, Multimedia Editor at Younus Group of Industries and Software Engineer at SM Technology. I have over five years of experience in multimedia editing and mobile application development.
-
-<table>
-<tbody>
-<tr>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anayathossain&layout=donut&theme=dark)
-
-</td>
-
-<td>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anayathossain&show_icons=true&theme=dark)
-
-</td>
-</tr>
-
-</tbody>
-</table>
+<div align="center">
+<sub>Building great products · Leading great teams · Creating meaningful impact</sub>
+</div>
