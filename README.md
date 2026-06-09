@@ -34,7 +34,7 @@ I am a **Software Engineer** and **Group of Companies Owner** with over five yea
 | 🏢 Founder & CEO | **Oriqon Group** |
 | 🏢 Founder & CEO | **Digidev Solutions** |
 | 🎬 Senior Executive, Multimedia Editor | **Younus Group of Industries** |
-| 💻 Software Engineer | **SM Technology** |
+| 💻 Software Engineer | **Betopia Group - SM Technology** |
 
 ## Core Expertise
 
