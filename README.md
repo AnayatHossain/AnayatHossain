@@ -25,7 +25,7 @@
 
 ## About Me
 
-I am a **Software Engineer** and **Group of Companies Owner** with over five years of hands-on experience spanning mobile application development, multimedia production, and enterprise leadership. I architect and ship cross-platform mobile apps (Flutter/Dart) powered by Firebase, while simultaneously leading multiple ventures across technology and media.
+Entrepreneur, Founder & CEO of Oriqon Group and Digidev Solutions. Full-Stack Software Engineer (Flutter, FastAPI, Java), UI/UX Designer, Senior Executive Multimedia Editor, Professional Video Editor, Professional Graphics Designer, Motion Graphics Designer, Videographer, Photographer, and Published Researcher. Passionate about building impactful software, digital experiences, creative media, and technology-driven businesses.
 
 ## Leadership & Ventures
 
