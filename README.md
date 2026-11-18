@@ -6,11 +6,12 @@
 
 # Anayat Hossain
 
-### Entrepreneur · Software Engineer · Multimedia Creative
+### Software Engineer · Flutter & FastAPI Developer · Multimedia Creative
 
 <p>
   <a href="https://www.linkedin.com/in/anayathossainofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/AnayatHossain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://pub.dev/publishers/anayathossain.com"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/></a>
   <a href="https://x.com/AnayatOfficial"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
   <a href="https://www.youtube.com/@anayathossainofficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://www.facebook.com/iam.anayathossain"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -25,36 +26,46 @@
 
 ## About Me
 
-Entrepreneur, Founder & CEO of Oriqon Group and Digidev Solutions. Full-Stack Software Engineer (Flutter, FastAPI, Java), UI/UX Designer, Senior Executive Multimedia Editor, Professional Video Editor, Professional Graphics Designer, Motion Graphics Designer, Videographer, Photographer, and Published Researcher. Passionate about building impactful software, digital experiences, creative media, and technology-driven businesses.
+Software Engineer specializing in cross-platform **Flutter** development and **FastAPI** backend systems, with hands-on experience delivering production mobile and web applications for clients across Bangladesh and abroad. Has shipped multiple live apps to the **Apple App Store** and **Google Play Store**, implementing payment gateways, real-time messaging, audio/video calling, push notifications, and AI integrations. 
 
-## Leadership & Ventures
+Author and verified publisher of [**flutter_api_craft**](https://pub.dev/packages/flutter_api_craft) on pub.dev. Also an experienced UI/UX Designer, Multimedia Creative, and Published Researcher passionate about building high-performance software, intuitive digital experiences, and scalable modern architectures.
+
+<!-- 
+### Founder & Venture Details (Hidden for now, preserved for future use):
+- Founder & CEO of Oriqon Group
+- Founder & CEO of Digidev Solutions
+-->
+
+## Professional Experience
 
 | Role | Organisation |
 |------|-------------|
-| 🏢 Founder & CEO | **Oriqon Group** |
-| 🏢 Founder & CEO | **Digidev Solutions** |
-| 🎬 Senior Executive, Multimedia Editor | **Younus Group of Industries** |
 | 💻 Software Engineer | **Betopia Group - SM Technology** |
+| 🎬 Senior Executive, Multimedia Editor | **Younus Group of Industries** |
+<!-- | 🏢 Founder & CEO | **Oriqon Group** | -->
+<!-- | 🏢 Founder & CEO | **Digidev Solutions** | -->
 
 ## Core Expertise
 
 <p align="left">
 
-**Mobile Development**
+**Mobile Development**  
 <br/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
-**Backend & Cloud**
+**Backend & Cloud**  
 <br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 
-**Languages**
+**Languages & Web**  
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -62,7 +73,7 @@ Entrepreneur, Founder & CEO of Oriqon Group and Digidev Solutions. Full-Stack So
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-**Creative & Design**
+**Creative & Design**  
 <br/>
 <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=Adobe+Premiere+Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=Adobe+After+Effects&logoColor=white"/>
@@ -71,7 +82,7 @@ Entrepreneur, Founder & CEO of Oriqon Group and Digidev Solutions. Full-Stack So
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=Adobe+XD&logoColor=white"/>
 
-**Tools & IDEs**
+**Tools & IDEs**  
 <br/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
@@ -105,5 +116,5 @@ Entrepreneur, Founder & CEO of Oriqon Group and Digidev Solutions. Full-Stack So
 ---
 
 <div align="center">
-<sub>Building great products · Leading great teams · Creating meaningful impact</sub>
+<sub>Crafting scalable software · Delivering seamless user experiences · Innovating through technology</sub>
 </div>
